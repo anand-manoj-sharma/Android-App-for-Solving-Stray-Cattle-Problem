@@ -40,9 +40,13 @@ The below image shows screen of Professional and Last Complaint section of the u
 solving the Problem.
 
 In this way the complete process takes place.
+<b>For clear explanation of the project you can refer the project report, it includes the images which will be easier to understand.</b>
 
 # Technologies Used:-
 1) Java
 2) Android Studio
 3) Firebase(Authentication and Database)
 4) Google Location API
+
+<b> This mobile application can further be improved with additional features like by adding image processing concept to it.</b>
+<b> This concept will help us to recognise the image whether it is an image of cattle or not as it is not necessary that all the users are trusted.</b>
