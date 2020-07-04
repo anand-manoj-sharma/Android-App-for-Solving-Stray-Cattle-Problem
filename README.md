@@ -13,12 +13,12 @@ This sought of situation is not good for humans and also for the cattle. So this
 3) Admin :- He is the one who has the right to create the professionals at different places. And he also looks after the quality of work performed by the professionals.
 
 # Flow of Complete Process:-
-Step 1:-
+<b>Step 1:-</b>
 As the user opens the app he/she has login into his/her profile. If he is not the registered user then
 he needs to sign up first. So first step is to sign up
 Yourself into the system.
 
-Step 2:-
+<b>Step 2:-</b>
 As the cattle spotted by the user he will sign in.
 As he signs in he will see a new page in which first he needs to click a picture of the cattle. And
 yet there is no complaint made, the Last Complaint button will show the status of the current
@@ -31,7 +31,7 @@ AND SEND button.
 The below image will show how the Professionals screen before and after after clicking SEND
 button by the user.
 
-Step 3:-
+<b>Step 3:-</b>
 Now as the Complaint received by the Professional he has the address, location and image of the
 cattle. He will visit the Location solve the complaint made by the user. As he completes his
 process he will click on the DONE button and his screen gets cleared and the notification is sent
