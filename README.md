@@ -40,6 +40,7 @@ The below image shows screen of Professional and Last Complaint section of the u
 solving the Problem.
 
 In this way the complete process takes place.
+
 <b>For clear explanation of the project you can refer the project report, it includes the images which will be easier to understand.</b>
 
 # Technologies Used:-
